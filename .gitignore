@@ -1,3 +1,5 @@
 **/out
 **/*.iml
 .DS_Store
+
+**/.idea
